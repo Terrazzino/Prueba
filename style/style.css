@@ -62,9 +62,9 @@ main{
     }
 
     article{
-        width: 50%;
+        width: 70%;
     }
     aside{
-        width: 50%;
+        width: 30%;
     }
 }
